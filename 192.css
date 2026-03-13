@@ -15,11 +15,12 @@
 body {
 		font-family:Georgia, Garamond, serif;
 		font-size:12px;
-		color:#000001;
-		background-color:#000000;
-		background-image:url(mur_fond.jpg);
+		color:#f3efef;
+		background-color:#0f0404;
+		background-image:url(/shanks.gif.gif);
 		background-position:top left;
-		background-repeat:repeat-x;		
+		background-repeat:repeat-x;
+		
 		}
 h1	{
 	margin:0px;
@@ -39,7 +40,7 @@ h2		{
 			}
 			
 h3	{
-	color:#4A0000;
+	color:#21c0a6;
 	padding:30px 0px 0px 42px;
 	margin:10px 0px 0px 0px;
 	height:53px;
@@ -51,7 +52,7 @@ p	{
 	margin:0px;
 	}		
 a	{
-	color:#960000;	
+	color:#224f83;	
 	text-decoration:none;
 	font-weight:bold;
 	}			
@@ -63,7 +64,7 @@ a:hover	{
 	
 abbr	{
 		text-decoration:overline;		
-		color:#9A7339;
+		color:#9a3939;
 		}	
 	
 .page-wrapper	{
@@ -71,7 +72,7 @@ abbr	{
 			top:0px;
 			left:215px;
 			width:600px;
-			background:url(fond-centre.jpg);
+			background:url(solar4.gif) center;
 			background-position:top left;
 			background-repeat:repeat-y;
 			z-index:10;
@@ -183,7 +184,7 @@ abbr	{
 				}				
 .sidebar	UL	LI	{margin:-5px 0 0 0; padding-top:0}			
 .sidebar .wrapper	{		
-			background:URL("menu_droite_fd_top.jpg") top left no-repeat;			
+			background:URL("solar3-ezgif.com-resize.gif") top left no-repeat;			
 			width:210px;
 			border-top:1px solid black;
 			margin:0 0px 0px 0px;
@@ -207,7 +208,7 @@ abbr	{
 				background:url(R.gif) top left no-repeat;
 				}
 								
-footer	A{color:#D6AE73}
+footer	A{color:#df0e0e}
 
 footer	{
 		margin-top:-100px;
